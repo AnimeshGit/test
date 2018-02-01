@@ -1,0 +1,22 @@
+{
+  "name": "btest",
+  "version": "1.0.0",
+  "description": "btest\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[Ction : test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnimeshGit/test.git"
+  },
+  "keywords": [
+    "bac"
+  ],
+  "author": "Aniket Meshram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnimeshGit/test/issues"
+  },
+  "homepage": "https://github.com/AnimeshGit/test#readme"
+}
